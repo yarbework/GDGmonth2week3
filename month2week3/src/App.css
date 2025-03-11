@@ -1,0 +1,28 @@
+* {
+  align-content: center;
+  width: 100%px;
+  margin: 0 auto;
+  padding: 10px;
+  background-color: rgb(2, 9, 15);
+}
+.app {
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+button {
+  background-color: blue;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 12px;
+}
+button:hover {
+  background-color: darkblue;
+}
